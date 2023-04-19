@@ -1,0 +1,58 @@
+*{
+    font-family: Arial, Helvetica, sans-serif ;
+    margin: 0%;
+    padding:0%;
+}
+
+.padre{
+    display:flex;
+    width: 100%;
+    max-width: 900px;
+    margin: auto;
+}
+.elemento1{
+    color:aliceblue;
+    text-align:justify;
+    background-color: #616161;
+    height: 1000px;
+    width: 500px;
+    padding-left: 2%;
+    
+}
+
+.foto{
+    height: 300px;
+    width: 300px;
+    border:none;
+    border-radius: 50%;
+
+}
+
+header>h4{
+    margin-bottom: 5%;
+    margin-top: 5%;
+    padding: 0% 4%;
+
+}
+
+.titulo{
+    padding-left: 5%;
+}
+.elemento2{
+    height: 1000px;
+    width: 70%;
+    text-align: justify;
+    margin-top: 0%;
+    padding-top: 0%;
+    padding-left: 50px;
+    background-color: #F5DAD4;
+    color: black;
+}
+
+.titulares{
+    margin-bottom: 2%;
+    margin-block-start:2%;
+    padding: 0% 4%;
+    background-color: #F05E3D;
+
+}
